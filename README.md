@@ -1,6 +1,6 @@
 
 <a href="https://github.com/VoltAgent/voltagent">
-     <img width="1500" " alt="claude-skills" src="https://github.com/user-attachments/assets/0db54cfc-f3dd-4683-abbb-e4c01d9dfb5d" />
+     <img width="1500" alt="claude-skills" src="https://github.com/user-attachments/assets/0db54cfc-f3dd-4683-abbb-e4c01d9dfb5d" />
 </a>
 
 
@@ -51,7 +51,7 @@ The most contributed Agent Skills repository, built and maintained together with
 
 ### Official Skills by
 
-| | | | |
+| | | | | |
 |---|---|---|---|
 | [Claude](#official-claude-skills) | [VoltAgent](#skills-by-voltagent) | [Angular](#skills-by-angular) | [Composio](#skills-by-composio-team) | [Supabase](#skills-by-supabase-team) |
 | [Google Gemini](#skills-by-google-gemini) | [Stripe](#skills-by-stripe-team) | [Courier](#skills-by-courier) | [CallStack](#skills-by-callstack) |
